@@ -12,4 +12,4 @@
 - Pagination implementation for browsing any CRUD element
 
 # Experience
-## This was my first laravel project and my first experience with full-stack and backend development and was completed in three days. This project could further be developed with the implementation of proper payment gateways, utilising more of AlpineJS capabilities for an enhanced and more dynamic UX experience, Creating a storage system for available books, sold out books and discounts and implementing a better, more feature-rich dashboard for the admins.
+ This was my first laravel project and my first experience with full-stack and backend development and was completed in three days. This project could further be developed with the implementation of proper payment gateways, utilising more of AlpineJS capabilities for an enhanced and more dynamic UX experience, Creating a storage system for available books, sold out books and discounts and implementing a better, more feature-rich dashboard for the admins.
